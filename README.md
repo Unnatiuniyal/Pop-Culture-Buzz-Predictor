@@ -73,6 +73,9 @@ This tool helps stakeholders:
 
 ## **Dashboard Preview**
 
+- [Live Demo on Streamlit](https://pop-culture-buzz-predictor-8xyulq99rszqwjfegemto7.streamlit.app/)
+
+  
 - Buzz Spikes View <img width="1913" height="1012" alt="Buzz Spikes View" src="https://github.com/user-attachments/assets/df57a1a5-550b-4ebd-9ec9-78a6c8cd2117" />
 
 - Forecast View <img width="1918" height="1025" alt="Forecast View" src="https://github.com/user-attachments/assets/d6b744d9-9dfe-4d46-85be-bc4c0daaa763" />
