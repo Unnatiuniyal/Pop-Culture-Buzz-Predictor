@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.22.0
+pytrends==4.9.2
+prophet==1.1.5
+streamlit==1.38.0
