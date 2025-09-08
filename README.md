@@ -83,8 +83,6 @@ This tool helps stakeholders:
 - Relative Share View <img width="1918" height="1013" alt="Relative Share View" src="https://github.com/user-attachments/assets/530489b1-17b0-4700-9b39-667bd0a5d84b" />
 ---
 
-
-
 ## **Project Structure** 
 
 ```
@@ -144,6 +142,13 @@ streamlit run app/app.py
 ## **Conclusion**
 
 Pop Culture Buzz Predictor transforms raw search data into actionable insights. It’s not just a project— it’s a universal trend radar for marketers, creators, and brands.
+
+---
+
+## 📄 Full Report
+
+For the detailed analysis, insights, and business recommendations, see the 
+[Pop Culture Buzz Predictor Report (PDF)](docs/Pop_Culture_Buzz_Predictor.pdf)
 
 ---
 
