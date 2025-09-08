@@ -97,7 +97,6 @@ This tool helps stakeholders:
 ├── data/
 │   ├── google_trends_clean.csv
 │   ├── google_trends_spike_flags.csv
-│   ├── forecasts_prophet/
 │
 ├── notebooks/
 │   └── eda.ipynb
