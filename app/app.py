@@ -24,12 +24,12 @@ st.markdown(
 st.title("📊 Pop Culture Buzz Predictor")
 
 # -----------------------------
-# Load data
+# Load data (from data/ folder)
 # -----------------------------
-df = pd.read_csv("google_trends_clean.csv")
+df = pd.read_csv("data/google_trends_clean.csv")
 df["date"] = pd.to_datetime(df["date"], dayfirst=True, errors="coerce")
 
-df_flags = pd.read_csv("google_trends_spike_flags.csv")
+df_flags = pd.read_csv("data/google_trends_spike_flags.csv")
 df_flags["date"] = pd.to_datetime(df_flags["date"], dayfirst=True, errors="coerce")
 
 # Drop bad rows if any
@@ -108,3 +108,4 @@ artist_insights = {
 
 st.subheader(f"🔍 Insights — {artist}")
 st.write(artist_insights.get(artist, "No insights added yet."))
+
