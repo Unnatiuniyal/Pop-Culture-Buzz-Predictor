@@ -47,6 +47,7 @@ This makes trend anticipation actionable, helping brands and marketers plan camp
 - Data Cleaning → Interpolated missing values, smoothed noise, weekly resample.
 - Exploratory Data Analysis → Weekly trends, correlations, spike detection.
 - Forecasting → Prophet predictions with confidence intervals.
+- Model Evaluation → Cross-validated forecasts, compared accuracy using MAPE across artists/keyword
 - Dashboard → Interactive Streamlit app with spike markers + insights.
 ---
 
@@ -103,6 +104,7 @@ This tool helps stakeholders:
 │
 ├── docs/
 │   └── screenshots/
+│   ├── buzz_trends_report.pdf
 │   └── Pop_Culture_Buzz_Predictor.pdf
 │
 ├── requirements.txt
