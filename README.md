@@ -93,8 +93,10 @@ This tool helps stakeholders:
 │   └── app.py                          # Streamlit dashboard
 │
 ├── data/
+│   ├── google_trends.csv
 │   ├── google_trends_clean.csv
-│   ├── google_trends_spike_flags.csv
+│   ├── google_trends_anchor_scaled.csv
+│   └── google_trends_spike_flags.csv
 │
 ├── notebooks/
 │   └── eda.ipynb
