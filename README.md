@@ -145,7 +145,7 @@ Pop Culture Buzz Predictor transforms raw search data into actionable insights. 
 
 ---
 
-## 📄 Full Report
+## Full Report
 
 For the detailed analysis, insights, and business recommendations, see the 
 [Pop Culture Buzz Predictor Report (PDF)](docs/Pop_Culture_Buzz_Predictor.pdf)
